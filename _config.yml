@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://PrettySeven.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Pretty Seven
+subtitle:  一瞬之光是你，何双钻。
+author: 钻钻
 simple_search: https://www.google.com/search
-description:
+description: 我就是钻钻何双钻，老婆起的爱称。我热爱编程，喜欢探索未知的事物，喜欢挑战。当然，我也热爱生活，努力做好每一件事，享受生活带来的愉悦。有时也会感觉很辛苦，但是可以享受坚持后带来的快乐。我很懒，不喜欢重复，希望生活每天都有惊喜。在很安静的时候也会像喵星人一样思考人生。我是九月的白羊座，所以我拥有超出处女座能力的超能力。梦想成为超级程序员，一直在努力。我保证乖，不说谎，不是我的东西，我不会拿，好好学习，天天向上。从现在开始，我要学会学习，学会分享，更重要的是学会生活。在这里感谢我的家人，特别是老婆，有你的支持，让我步步向前。我很喜欢这句话：不要因为走的太久，而忘记了为什么出发。
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: prettyseven@icloud.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -64,7 +64,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: PrettySeven
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
@@ -95,7 +95,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-55918316-1
 
 # Facebook Like
 facebook_like: false
