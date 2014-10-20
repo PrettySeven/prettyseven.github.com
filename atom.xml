@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Pretty Seven]]></title>
   <link href="http://PrettySeven.github.io/atom.xml" rel="self"/>
   <link href="http://PrettySeven.github.io/"/>
-  <updated>2014-10-20T23:57:08+08:00</updated>
+  <updated>2014-10-21T00:29:25+08:00</updated>
   <id>http://PrettySeven.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[钻钻]]></name>
+    <email><![CDATA[prettyseven@icloud.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
